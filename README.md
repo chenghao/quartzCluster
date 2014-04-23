@@ -1,3 +1,3 @@
 quartzCluster
 =============
-spring + quartz 集群
+spring + quartz 集群。基于mysql
